@@ -1,0 +1,2 @@
+# Ppt
+pedra papel tesoura
